@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/news-homepage](https://www.frontendmentor.io/solutions/news-homepage)
+- Solution URL: [frontendmentor.io/solutions/news-homepage](https://www.frontendmentor.io/solutions/news-homepage-using-reactjs-fgt7C24IBm)
 - Live Site URL: [abulhashim.github.io/News-Homepage](https://abulhashim.github.io/News-Homepage/)
 
 ## My process
